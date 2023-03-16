@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'Nexa-Regular';
+  font-family: 'Nexa';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("fonts/Nexa-Regular.woff2") format('woff2');
+  src: url("fonts/NexaLight.woff2") format('woff2');
 }
