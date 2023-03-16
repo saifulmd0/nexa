@@ -5,10 +5,3 @@
   font-display: swap;
   src: url("fonts/Nexa-Regular.woff2") format('woff2');
 }
-@font-face {
-  font-family: 'Nexa';
-  font-style: bold;
-  font-weight: 700;
-  font-display: swap;
-  src: url("fonts/Nexa-Bold.woff2") format('woff2');
-}
